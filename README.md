@@ -1,4 +1,4 @@
-                             #Customer Support SLA & CSAT Analytics Dashboard
+#Customer Support SLA & CSAT Analytics Dashboard
 
 ![Dashboard Preview](dashboard_screenshot.png)
 
