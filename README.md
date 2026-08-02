@@ -1,6 +1,6 @@
 # Customer Support SLA & CSAT Analytics Dashboard
 
-![Dashboard Preview](Visualization/dashboard_screenshot_1.png)
+![Dashboard Preview](dashboard_screenshot.png)
 
 ## 📌 Executive Summary
 This project analyzes **customer support performance**, evaluating **24-hour SLA compliance rates**, **Resolution Times**, and **Customer Satisfaction (CSAT)** scores across products and ticket priorities.
