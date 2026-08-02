@@ -2,7 +2,7 @@
 
 ![Dashboard Preview](dashboard_screenshot.png)
 
-## 📌 Executive Summary
+## 📌 Executive Summary 
 This project analyzes **customer support performance**, evaluating **24-hour SLA compliance rates**, **Resolution Times**, and **Customer Satisfaction (CSAT)** scores across products and ticket priorities.
 
 The goal was to transform raw timestamp and survey data into an interactive, executive-ready Excel dashboard to identify support bottlenecks and actionable service improvements.
@@ -15,3 +15,5 @@ The goal was to transform raw timestamp and survey data into an interactive, exe
 
 ### 2. Tools Used
 * Microsoft Excel: Data Cleaning, Feature Engineering (IFS, OR, ISBLANK), Pivot Tables, Pivot Charts, Slicers, Dashboard UI Design.
+
+![Dashboard Preview](dashboard_screenshot_2.png)
